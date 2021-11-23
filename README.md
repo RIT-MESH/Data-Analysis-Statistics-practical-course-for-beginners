@@ -1,4 +1,5 @@
 # Data-Analysis-Statistics-practical-course-for-beginners
+https://www.udemy.com/course/data-analysis-statistics/
 
 ## What you'll learn
 - How to analyze data and how to use statistics in practice
